@@ -1,7 +1,5 @@
 Python Redis Clone (PYDIS)
 
-[![progress-banner](https://backend.codecrafters.io/progress/redis/f0493a36-5fcd-4a1f-ad72-44c9d538c026)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
-
 This is a high-performance, asynchronous clone of Redis built from scratch in Python using `asyncio`. It's not just a simple key-value store; it implements core Redis features including the RESP protocol, master-replica replication, and RDB file parsing for persistence.
 
 ## Why This Project?
