@@ -138,4 +138,4 @@ master_repl_offset:0
 ```
 
 ## Design and Learning Journal
-I maintained a live document of my learnings, design decisions, and bugs I encountered while building this project. You can read it here: "Implementation Detailed Doc"
+I maintained a live document of my learnings, design decisions, and bugs I encountered while building this project. You can read it here: ["Implementation Detailed Doc"](https://docs.google.com/document/d/e/2PACX-1vSqUDVC1HJPQDn1d9Vd936IpVp22T86iKh8bRbKiO4wUDwb1szyqD5fInpLv-6snrxo7TCcuKNbKudf/pub)
