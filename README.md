@@ -1,4 +1,4 @@
-Python Redis Clone (PYDIS)
+# Python Redis Clone (PYDIS)
 
 This is a high-performance, asynchronous clone of Redis built from scratch in Python using `asyncio`. It's not just a simple key-value store; it implements core Redis features including the RESP protocol, master-replica replication, and RDB file parsing for persistence.
 
